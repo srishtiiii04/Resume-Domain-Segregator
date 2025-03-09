@@ -1,6 +1,0 @@
-Name
-DOB
-email
-Experience
-Qualification
-Languages
